@@ -48,7 +48,7 @@ Workshop on the dynamic clamp technique for the Berlin-Oxford Phd meeting 28-29t
 * brainstorm on possible closed loops between soft- and wetware (15 mins)
 * short presentations (10 mins)
 
-# More dynamic clamp papers
+## more dynamic clamp inspiration
 
 * [Impact of Heterogeneous Perisomatic IPSC Populations on Pyramidal Cell Firing Rates](https://www.physiology.org/doi/full/10.1152/jn.00916.2003)
 * [Connecting Neurons to a Mobile Robot: An In Vitro Bidirectional Neural Interface](https://www.hindawi.com/journals/cin/2007/012725/abs/)
