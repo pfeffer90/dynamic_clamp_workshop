@@ -21,7 +21,7 @@ Workshop on the dynamic clamp technique for the Berlin-Oxford Phd meeting 28-29t
 
 
 #### Ionic
-* [**Reliable neuromodulation from circuits with variable underlying structure**](publications/Grashow2009_reliable_neuromodulation.pdf)
+* [**Reliable neuromodulation from circuits with variable underlying structure**](publications/Grashow_2009_reliable_neuromodulation.pdf)
 * [Sodium Along With Low-Threshold Potassium Currents Enhance Coincidence Detection of Subthreshold Noisy Signals in MSO Neurons](https://www.physiology.org/doi/full/10.1152/jn.00717.2003)
 * [Membrane potential resonance frequency influences network frequency through electrical coupling](https://www.physiology.org/doi/pdf/10.1152/jn.00361.2016)
 
