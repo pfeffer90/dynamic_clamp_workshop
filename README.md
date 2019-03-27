@@ -28,6 +28,9 @@ Workshop on the dynamic clamp technique for the Berlin-Oxford Phd meeting 28-29t
 * [Direct measurement of somatic voltage clamp errors in central neurons](https://www.nature.com/articles/nn.2137)
 
 ### 15:50 - 16:05 Speed up and slow down neurons with the capacitance clamp 
+
+<img src="images/capacitance_clamp.png" height="200vh">
+
 * chalk talk: how to clamp a neuron's capacitance
 * demonstration of the capacitance clamp in [RELACS](http://relacs.sourceforge.net/index.html)
 
